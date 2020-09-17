@@ -1,18 +1,18 @@
-Pavel Stadnik
+# Pavel Stadnik
 
-Contacts:
-Phone number: +375 (33) 613-43-38
-VK:https://vk.com/zapahlovesnoy
+# Contacts:
+- **Phone number**: +375 (33) 613-43-38
+- [VK](https://vk.com/zapahlovesnoy)
 
-Information 
+# Information 
 I want to learn basics of programming. I very love this type of activity.
-I very fast learn JavaScript and this very good.
+I **very fast** learn JavaScript and this very good.
 
-Skills
-I know Basics of JavaScript, HTML and CSS.
+# Skills
+I know *Basics of*  **JavaScript**, **HTML** and **CSS**.
 
-Code example:
-const countChars = (str, char) => {
+**Code example**:
+`const countChars = (str, char) => {
   let i = 0;
   let count = 0;
   while (i < str.length) {
@@ -20,9 +20,9 @@ const countChars = (str, char) => {
       count += 1;}
     i = i + 1;}
   return count;
-};
+};`
 
-Not have any expirience. But I study in RSSchool
+# Not have any expirience. But I study in **RSSchool**
 
-Level of English: A1+
+# Level of English: A1+
 Not bad, but not good.
